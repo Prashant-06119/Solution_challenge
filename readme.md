@@ -43,25 +43,8 @@ Local social groups and NGOs collect important information about community needs
 
 ## 🚀 Live Demo
 
-**[Open Seva AI Prototype](https://your-vercel-link-here.vercel.app)**  
-*(Replace with your actual deployed link after hosting)*
+**[Open Seva AI Prototype](https://solution-challenge-snowy.vercel.app/)**  
 
----
 
-## 📸 Screenshots
 
-*(Add screenshots here after deployment)*
 
-- NGO Dashboard with Live Map
-- Gemini OCR in action
-- Volunteer Portal
-- Impact Tracking
-
----
-
-## 🏃‍♂️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/seva-ai.git
-   cd seva-ai
